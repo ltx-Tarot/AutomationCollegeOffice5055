@@ -1,4 +1,4 @@
-# Automation College Office 5055
+# AutomationCollegeOffice5055
 本仓库中是一些文档经验，希望对师弟师妹有用。
 ## 文件结构
 
